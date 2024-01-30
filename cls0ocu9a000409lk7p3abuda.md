@@ -1,8 +1,8 @@
 ---
-title: "VSCode k8s to connect to EKS cluster"
+title: "VSCode Bridge to (EKS) kubernetes"
 datePublished: Tue Jan 30 2024 18:11:01 GMT+0000 (Coordinated Universal Time)
 cuid: cls0ocu9a000409lk7p3abuda
-slug: vscode-k8s-to-connect-to-eks-cluster
+slug: vscode-bridge-to-eks-kubernetes
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/vk0zqWdpGLk/upload/b6b17ea3d3798870491a5a68df0920bb.jpeg
 tags: kubernetes, k8s, vscode-cjevho8kk00bo1ss2lmqqjr51, vscode-extensions, bridge
 

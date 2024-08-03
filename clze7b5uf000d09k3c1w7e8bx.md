@@ -1,8 +1,8 @@
 ---
-title: "Don't mutate your paginated query_sets"
+title: "Don't mutate your paginated Queryset"
 datePublished: Sat Aug 03 2024 14:00:32 GMT+0000 (Coordinated Universal Time)
 cuid: clze7b5uf000d09k3c1w7e8bx
-slug: dont-mutate-your-paginated-querysets
+slug: dont-mutate-your-paginated-queryset
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5IHz5WhosQE/upload/a8981e8960ad958bb6a96d323cb7148c.jpeg
 tags: django, mutations, query, offset
 

@@ -20,9 +20,7 @@ Below is a list of questions that you could ask:
     
 * What's would a typical day like be for me if I was hired?
     
-* Can you describe the role and responsibilities?
-    
-* What does it take to be successful in this role?
+* What does it take to be successful in this role? Or, A year from now, what are the traits that would have made me successful at this role? Or, what does a successful first 90 days look like?
     
 * What are the biggest challenges the team is facing?
     

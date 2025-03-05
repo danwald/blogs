@@ -4,7 +4,7 @@ datePublished: Wed Mar 05 2025 03:22:50 GMT+0000 (Coordinated Universal Time)
 cuid: cm7vcrdar000509l993b1hm3c
 slug: replica-lag
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/RVUeAaZZNtg/upload/d088972b93681ac17a1931ff9340405f.jpeg
-tags: metrics, databases, replication, ddl
+tags: cdn, django, metrics, databases, replication
 
 ---
 

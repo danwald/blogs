@@ -4,7 +4,7 @@ datePublished: Thu May 15 2025 17:24:42 GMT+0000 (Coordinated Universal Time)
 cuid: cmapn3hu9000009jp6efc4ejb
 slug: when-to-use-call
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/-0xCCPIbl3M/upload/1fa1aa6acae161ae4ca078a5217234fb.jpeg
-tags: python, oauth, oauth2, requestly
+tags: python, oauth, oauth2, metaprogramming, pycon, requestly
 
 ---
 

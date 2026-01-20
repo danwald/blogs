@@ -3,6 +3,7 @@ title: "Ors & Ands"
 datePublished: Tue Jan 20 2026 10:53:50 GMT+0000 (Coordinated Universal Time)
 cuid: cmkmh7t7b000q02l52m0m4d5x
 slug: ors-and-ands
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/GOtVDsYKGUc/upload/2f1c2e10b548939fd2e7d9c7199a5bfb.jpeg
 tags: python, logic, boolean, operators
 
 ---

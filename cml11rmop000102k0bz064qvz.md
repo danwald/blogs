@@ -72,6 +72,3 @@ Happy hackin'!
 * [Stanford Life Design Lab](http://lifedesignlab.stanford.edu/)
     
 * [Odyssey Planning Worksheet](https://designingyour.life/wp-content/uploads/2025/03/Odysseys-Worksheet-1.pdf)
-    
-
-**Metadata**: ~2 min read | Tags: career, life-design, frameworks, planning
